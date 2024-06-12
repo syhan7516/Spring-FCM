@@ -1,2 +1,2 @@
 # Spring-FCM
-Repository for Spring &amp; FCM study
+🧪 스프링, FCM 조합 공부를 위한 저장소
